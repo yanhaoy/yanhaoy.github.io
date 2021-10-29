@@ -9,8 +9,7 @@ author_profile: true
 
 ## Overcome Unreachable Contact on Uneven Terrain With Tail
 
-![Alt text](/images/tail.pdf)
-<img src="/images/tail.pdf">
+<img src="/images/tail.svg">
 
 ## Hierarchical Motion Planning Framework for Legged Robots
 
@@ -18,11 +17,9 @@ author_profile: true
 
 ## UAV Waypoint Opportunistic Navigation in GNSS-denied Environments
 
-![Alt text](/images/momp.eps)
-<img src="/images/momp.eps">
+<img src="/images/momp.svg">
 
-![Alt text](/images/momp_2.eps)
-<img src="/images/momp_2.eps">
+<img src="/images/momp_2.svg">
 
 ## Real-Time Object Recognition Based on Convolutional Neural Network and Metric Learning
 
