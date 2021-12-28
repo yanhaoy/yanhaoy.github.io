@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://github.com/yanhaoy/yanhaoy.github.io/blob/master/files/cv.pdf)
+[Download CV](https://drive.google.com/file/d/1oEnjPzRDnwDtoTjy8CJwymX5XezIoesZ/view?usp=sharing)
 
 <!-- Education
 ======
