@@ -23,6 +23,8 @@ author_profile: true
 
 <img src="/images/tail.svg" width="100%">
 
+<iframe src="https://www.youtube.com/embed/e_WV23xY0t4?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 ## Hierarchical Planning and Control for Autonomous Legged Robot Agility in Unstructured Environments
