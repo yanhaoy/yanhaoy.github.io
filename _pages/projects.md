@@ -54,11 +54,4 @@ author_profile: true
 * ### Unknown Digits Detection and Recognition in RoboMaster Robotics Competition
 * ### Target Detection and Tracking in RoboMaster Robotics Competition
 
-<div>
-    <div style="width: 49%; display: inline-block">
-        <iframe src="https://www.youtube.com/embed/U70VJr-8yKU?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div style="width: 49%; display: inline-block">
-        <iframe src="https://www.youtube.com/embed/ZJTfwt2FnUo?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
+<iframe src="https://www.youtube.com/embed/SWBToGwPwso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
