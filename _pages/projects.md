@@ -9,37 +9,23 @@ author_profile: true
 
 ## Contents
 
-[Recovering From Unreachable Contacts During Legged Locomotion With Optimal Tail Control](#recovering-from-unreachable-contacts-during-legged-locomotion-with-optimal-tail-control)
+[Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots](#proprioception-and-tail-control-enable-extreme-terrain-traversal-by-quadruped-robots)
 
-[Hierarchical Planning and Control for Autonomous Legged Robot Agility in Unstructured Environments](#hierarchical-planning-and-control-for-autonomous-legged-robot-agility-in-unstructured-environments)
+[Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion](#quad-sdk-full-stack-software-framework-for-agile-quadrupedal-locomotion)
 
 [UAV Waypoint Opportunistic Navigation in GNSS-Denied Environments](#uav-waypoint-opportunistic-navigation-in-gnss-denied-environments)
 
 [Real-Time Object Detection and Recognition Based on Convolutional Neural Network and Metric Learning](#real-time-object-detection-and-recognition-based-on-convolutional-neural-network-and-metric-learning)
 
-## Recovering From Unreachable Contacts During Legged Locomotion With Optimal Tail Control
+## Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots
 
-* ### Improving Tail Compatibility Through Sequential Distributed Model Predictive Control
-
-<img src="/images/tail.svg" width="100%">
-
-<iframe src="https://www.youtube.com/embed/e_WV23xY0t4?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uH6T1ETzjhM?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
-## Hierarchical Planning and Control for Autonomous Legged Robot Agility in Unstructured Environments
+## Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion
 
-* ### Control for Dynamic Quadrupedal Locomotion on Known and Unknown Rough Terrain
-* ### Planning and Control for Dynamic Quadrupedal Locomotion
-
-<div>
-    <div style="width: 49%; display: inline-block">
-        <iframe src="https://www.youtube.com/embed/_lR6VpEe1to?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div style="width: 49%; display: inline-block">
-        <iframe src="https://www.youtube.com/embed/3V4VjaV2E0c?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
+<iframe src="https://www.youtube.com/embed/kSXKjTxKpuA?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
