@@ -25,9 +25,13 @@ author_profile: true
 
 <iframe src="https://www.youtube.com/embed/LzKncPlLxnI?si=eqg6Uql8hr97jdq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
 ## Geometric Gait Optimization for Inertia-Dominated Systems with Nonzero Net Momentum
 
 <iframe src="https://www.youtube.com/embed/js5aBACdcko?si=Y4GP1tBiBX6o_5a_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 ## Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots
 
