@@ -9,6 +9,8 @@ author_profile: true
 
 ## Contents
 
+[Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers](#geometric-design-and-gait-co-optimization-for-soft-continuum-robots-swimming-at-low-and-high-reynolds-numbers)
+
 [Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics](#towards-geometric-motion-planning-for-high-dimensional-systems-gait-based-coordinate-optimization-and-local-metrics)
 
 [Geometric Gait Optimization for Inertia-Dominated Systems with Nonzero Net Momentum](#geometric-gait-optimization-for-inertia-dominated-systems-with-nonzero-net-momentum)
@@ -21,9 +23,17 @@ author_profile: true
 
 [Real-Time Object Detection and Recognition Based on Convolutional Neural Network and Metric Learning](#real-time-object-detection-and-recognition-based-on-convolutional-neural-network-and-metric-learning)
 
+## Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers
+
+[[Paper]](https://arxiv.org/abs/2409.15220)
+
+<iframe src="https://www.youtube.com/embed/eAmjk_dobHk?si=T-5Cgc4xPPsCb-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
 ## Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics
 
-[[Paper]](https://arxiv.org/abs/2309.08871) [[Presentation]](https://youtu.be/Yo45wiC8mBA?si=124LY1CLAYyfdXhy)
+[[Paper]](https://ieeexplore.ieee.org/document/10610063) [[Presentation]](https://youtu.be/Yo45wiC8mBA?si=124LY1CLAYyfdXhy)
 
 <iframe src="https://www.youtube.com/embed/M4KlUnYRRBc?si=PbKY3tqeqzVzLgXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
