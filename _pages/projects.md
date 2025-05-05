@@ -9,6 +9,10 @@ author_profile: true
 
 ## Contents
 
+[Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator](#geometric-gait-optimization-for-kinodynamic-systems-using-a-lie-group-integrator)
+
+[Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps](#geometric-data-driven-multi-jet-locomotion-inspired-by-salps)
+
 [Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers](#geometric-design-and-gait-co-optimization-for-soft-continuum-robots-swimming-at-low-and-high-reynolds-numbers)
 
 [Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics](#towards-geometric-motion-planning-for-high-dimensional-systems-gait-based-coordinate-optimization-and-local-metrics)
@@ -22,6 +26,22 @@ author_profile: true
 [UAV Waypoint Opportunistic Navigation in GNSS-Denied Environments](#uav-waypoint-opportunistic-navigation-in-gnss-denied-environments)
 
 [Real-Time Object Detection and Recognition Based on Convolutional Neural Network and Metric Learning](#real-time-object-detection-and-recognition-based-on-convolutional-neural-network-and-metric-learning)
+
+## Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator
+
+[[Paper]](https://arxiv.org/abs/2504.19072)
+
+<iframe src="https://www.youtube.com/embed/BGwqIgpkT8s?si=s9c-UBvfeSNGeBPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
+## Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps
+
+[[Paper]](https://arxiv.org/abs/2503.08817)
+
+<iframe src="https://www.youtube.com/embed/6rKDqbuwgJ4?si=Aou6b_SL26kdAySq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 ## Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers
 
