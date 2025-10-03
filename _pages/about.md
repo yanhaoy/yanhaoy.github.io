@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Robotics at Oregon State University, working with Prof. [Ross L. Hatton](https://engineering.oregonstate.edu/people/ross-hatton/) on locomotion analysis based on geometric mechanics.
+I am a final-year PhD student in Robotics at Oregon State University, working with Prof. [Ross L. Hatton](https://engineering.oregonstate.edu/people/ross-hatton/) on locomotion analysis based on geometric mechanics.
 
 I earned my MS degree in Mechanical Engineering from Carnegie Mellon University, where I worked with Prof. [Aaron M. Johnson](https://www.andrew.cmu.edu/user/amj1/) on motion planning and control for bio-inspired legged robots and tailed robots.
 
@@ -17,6 +17,8 @@ During my senior year, I was an exchange student in Mechanical Engineering at th
 I completed my Bachelor's degree in Mechanical Engineering at the South China University of Technology, where I worked on real-time object detection and recognition using convolutional neural networks and metric learning in the [Robot Lab](https://www.scutbot.cn/).
 
 My research aims to explore and improve the control and motion planning of highly dynamic robots. Agile animals can go anywhere in the world, and robotics is moving towards this goal. Like animals, robots should also be powerful assistants for patrols, search and rescue, emotional accompaniment, blind guidance, and so on. However, due to technical limitations, most of today's robots can only stay in factories or warehouses. Therefore, when I saw various autonomous robots in robotics competitions, I was determined to bring them into the real world and daily life to help society. For this reason, I want to better plan and control highly dynamic robots, such as legged robots, bio-inspired robots, and flying robots, to achieve locomotion capabilities beyond animals and enable them to adapt to challenging real-world environments, such as rocky hills and messy houses. 
+
+I am seeking a research-oriented position in academia or industry. If my expertise aligns with your needs, please feel free to get in touch.
 
 <!-- A data-driven personal website
 ======
