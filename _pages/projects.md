@@ -7,93 +7,163 @@ author_profile: true
 
 {% include base_path %}
 
-## Contents
+Click on a project below to view publications, presentations, and videos.
 
-[Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator](#geometric-gait-optimization-for-kinodynamic-systems-using-a-lie-group-integrator)
+<details>
+<summary><strong>Coordinate-Independent Robot Model Identification</strong></summary>
+<br>
 
-[Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps](#geometric-data-driven-multi-jet-locomotion-inspired-by-salps)
+[[Paper]](https://arxiv.org/abs/2603.14656)
 
-[Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers](#geometric-design-and-gait-co-optimization-for-soft-continuum-robots-swimming-at-low-and-high-reynolds-numbers)
+<iframe src="https://www.youtube.com/embed/SzChhDTt8IQ?si=nMHGd-y9bW9XGe90"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-[Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics](#towards-geometric-motion-planning-for-high-dimensional-systems-gait-based-coordinate-optimization-and-local-metrics)
+</details>
 
-[Geometric Gait Optimization for Inertia-Dominated Systems with Nonzero Net Momentum](#geometric-gait-optimization-for-inertia-dominated-systems-with-nonzero-net-momentum)
+<hr>
 
-[Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots](#proprioception-and-tail-control-enable-extreme-terrain-traversal-by-quadruped-robots)
+<details>
+<summary><strong>Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps</strong></summary>
+<br>
 
-[Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion](#quad-sdk-full-stack-software-framework-for-agile-quadrupedal-locomotion)
+[[Paper]](https://ieeexplore.ieee.org/document/11631854)
 
-[UAV Waypoint Opportunistic Navigation in GNSS-Denied Environments](#uav-waypoint-opportunistic-navigation-in-gnss-denied-environments)
+<iframe src="https://www.youtube.com/embed/6rKDqbuwgJ4?si=Aou6b_SL26kdAySq"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-[Real-Time Object Detection and Recognition Based on Convolutional Neural Network and Metric Learning](#real-time-object-detection-and-recognition-based-on-convolutional-neural-network-and-metric-learning)
+</details>
 
-## Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator
+<hr>
+
+<details>
+<summary><strong>Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator</strong></summary>
+<br>
 
 [[Paper]](https://arxiv.org/abs/2504.19072)
 
-<iframe src="https://www.youtube.com/embed/BGwqIgpkT8s?si=s9c-UBvfeSNGeBPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BGwqIgpkT8s?si=s9c-UBvfeSNGeBPY"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+</details>
 
-## Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps
+<hr>
 
-[[Paper]](https://arxiv.org/abs/2503.08817)
-
-<iframe src="https://www.youtube.com/embed/6rKDqbuwgJ4?si=Aou6b_SL26kdAySq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
-
-## Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers
+<details>
+<summary><strong>Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers</strong></summary>
+<br>
 
 [[Paper]](https://arxiv.org/abs/2409.15220)
 
-<iframe src="https://www.youtube.com/embed/eAmjk_dobHk?si=T-5Cgc4xPPsCb-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/eAmjk_dobHk?si=T-5Cgc4xPPsCb-bH"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+</details>
 
-## Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics
+<hr>
 
-[[Paper]](https://ieeexplore.ieee.org/document/10610063) [[Presentation]](https://youtu.be/Yo45wiC8mBA?si=124LY1CLAYyfdXhy)
+<details>
+<summary><strong>Towards Geometric Motion Planning for High-Dimensional Systems: Gait-Based Coordinate Optimization and Local Metrics</strong></summary>
+<br>
 
-<iframe src="https://www.youtube.com/embed/M4KlUnYRRBc?si=PbKY3tqeqzVzLgXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[[Paper]](https://ieeexplore.ieee.org/document/10610063)
+[[Presentation]](https://youtu.be/Yo45wiC8mBA?si=124LY1CLAYyfdXhy)
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+<iframe src="https://www.youtube.com/embed/M4KlUnYRRBc?si=PbKY3tqeqzVzLgXT"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-## Geometric Gait Optimization for Inertia-Dominated Systems with Nonzero Net Momentum
+</details>
 
-[[Paper]](https://ieeexplore.ieee.org/document/10342211) [[Presentation]](https://youtu.be/js5aBACdcko?si=bJ6flZ2-hNNr8scV)
+<hr>
 
-<iframe src="https://www.youtube.com/embed/cHNvpHvskuo?si=yyyXV3fK0zKSqIXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+<summary><strong>Geometric Gait Optimization for Inertia-Dominated Systems with Nonzero Net Momentum</strong></summary>
+<br>
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+[[Paper]](https://ieeexplore.ieee.org/document/10342211)
+[[Presentation]](https://youtu.be/js5aBACdcko?si=bJ6flZ2-hNNr8scV)
 
-## Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots
+<iframe src="https://www.youtube.com/embed/cHNvpHvskuo?si=yyyXV3fK0zKSqIXz"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-[[Paper]](https://ieeexplore.ieee.org/document/10342384) [[Presentation]](https://youtu.be/1J9D1Pz4d9o?si=llOODltP5SmJDMdf)
+</details>
 
-<iframe src="https://www.youtube.com/embed/ywXJ6kiuKyA?si=ugIM7JP_DoRCsMAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+<details>
+<summary><strong>Proprioception and Tail Control Enable Extreme Terrain Traversal by Quadruped Robots</strong></summary>
+<br>
 
-## Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion
+[[Paper]](https://ieeexplore.ieee.org/document/10342384)
+[[Presentation]](https://youtu.be/1J9D1Pz4d9o?si=llOODltP5SmJDMdf)
+
+<iframe src="https://www.youtube.com/embed/ywXJ6kiuKyA?si=ugIM7JP_DoRCsMAu"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+</details>
+
+<hr>
+
+<details>
+<summary><strong>Quad-SDK: Full Stack Software Framework for Agile Quadrupedal Locomotion</strong></summary>
+<br>
 
 [[Paper]](https://www.andrew.cmu.edu/user/amj1/papers/Quad_SDK_ICRA_Abstract.pdf)
 
-<iframe src="https://www.youtube.com/embed/kSXKjTxKpuA?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/kSXKjTxKpuA?mute=1"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+</details>
 
-## UAV Waypoint Opportunistic Navigation in GNSS-Denied Environments
+<hr>
+
+<details>
+<summary><strong>UAV Waypoint Opportunistic Navigation in GNSS-Denied Environments</strong></summary>
+<br>
 
 [[Paper]](https://ieeexplore.ieee.org/document/9511025)
 
-<img src="/images/momp.svg" width="49%"> <img src="/images/momp_2.svg" width="49%">
+<img src="/images/momp.svg" width="49%">
+<img src="/images/momp_2.svg" width="49%">
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+</details>
 
-## Real-Time Object Detection and Recognition Based on Convolutional Neural Network and Metric Learning
+<hr>
 
-* ### Unknown Digits Detection and Recognition in RoboMaster Robotics Competition
-* ### Target Detection and Tracking in RoboMaster Robotics Competition
+<details>
+<summary><strong>Real-Time Object Detection and Recognition Based on Convolutional Neural Networks and Metric Learning</strong></summary>
+<br>
 
-<img src="/images/rm1.jpg" width="49%"> <img src="/images/rm2.jpg" width="49%">
+### In the RoboMaster 2018 Robotics Competition
+
+#### Unknown Digits Detection and Recognition
+
+#### Target Detection and Tracking
+
+<img src="/images/rm1.jpg" width="49%">
+<img src="/images/rm2.jpg" width="49%">
+
+</details>
