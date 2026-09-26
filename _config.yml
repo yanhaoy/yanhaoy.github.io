@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanhao Yang"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Robotics, College of Engineering, Oregon State University"
-  location         : "Corvallis, OR"
+  bio              : "Provost’s Postdoctoral Fellow in Engineering, University of Notre Dame"
+  location         : "Notre Dame, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uht7SX4AAAAJ"
-  email            : "yangyanh@oregonstate.edu"
+  email            : "yyang47@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
